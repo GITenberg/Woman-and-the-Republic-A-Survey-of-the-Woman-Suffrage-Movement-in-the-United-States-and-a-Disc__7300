@@ -1,0 +1,27 @@
+_repo: Woman-and-the-Republic-A-Survey-of-the-Woman-Suffrage-Movement-in-the-United-States-and-a-Disc__7300
+creator:
+  author:
+    agent_name: Johnson, Helen Kendrick
+    alias: Johnson, Mrs. Rossiter
+    birthdate: 1844
+    deathdate: 1917
+    gutenberg_agent_id: '2414'
+    url: http://www.gutenberg.org/2009/agents/2414
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Kendrick_Johnson
+description: ''
+gutenberg_bookshelf: Suffrage
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Suffrage -- United States'
+- !lcsh 'Women -- Legal status, laws, etc. -- United States'
+- !lcc 'JK'
+title: "Woman and the Republic\r\nA Survey of the Woman-Suffrage Movement in the United\
+  \ States and a Discussion of the Claims and Arguments of Its Foremost Advocates"
+url: http://www.gutenberg.org/ebooks/7300
