@@ -1,4 +1,8 @@
 _repo: Woman-and-the-Republic-A-Survey-of-the-Woman-Suffrage-Movement-in-the-United-States-and-a-Disc__7300
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Johnson, Helen Kendrick
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2414
     wikipedia: http://en.wikipedia.org/wiki/Helen_Kendrick_Johnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7300#Woman-and-the-Republic-A-Survey-of-the-Woman-Suffrage-Movement-in-the-United-States-and-a-Disc_
 gutenberg_bookshelf: Suffrage
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
